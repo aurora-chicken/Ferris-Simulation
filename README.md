@@ -1,9 +1,9 @@
-### Ferris-Simulation
+# Ferris-Simulation
 Made for math project.
 ## Problem
-# Overall
+### Overall
 Person is on a ferris wheel and you need to find when to drop them so they land safely in the water present in the car moving below
-# Details
+### Details
 - Ferris wheel and cart start moving at the same time
 - Ferris wheel has radius of 50ft
 - The center of the ferris wheel is 65ft off the ground
